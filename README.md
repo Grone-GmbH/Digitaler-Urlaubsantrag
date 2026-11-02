@@ -1,4 +1,4 @@
-// Digitalisierung des Urlaubsantrags für Auszubildende bei Grone
+## Digitalisierung des Urlaubsantrags für Auszubildende bei Grone
 
 
 **Auszubildende
