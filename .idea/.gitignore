@@ -5,5 +5,5 @@
    # Build
    target/
 
-   # Tajne
+   # Geheim
    .env
